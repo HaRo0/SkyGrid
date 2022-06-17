@@ -1,0 +1,11 @@
+name: SkyGrid
+main: de.clevermc.skyGrid.Main
+version: 1
+author: HaRo0
+load: startup
+commands:
+    trust:
+    untrust:
+    skygrid:
+    spawn:
+    admin:
